@@ -1,0 +1,30 @@
+VECTORen – VOLLEDIGE BACK-UP / GITHUB-UPDATE
+
+Deze ZIP bevat de volledige map 'vectoren' in de aanbevolen structuur:
+
+vectoren/
+  index.html
+  start/index.html
+  leerlijn/index.html
+  optellen-aftrekken/index.html
+
+Aanbevolen werkwijze:
+1. Bewaar deze ZIP eerst lokaal als back-up.
+2. Open je GitHub repository.
+3. Vervang alleen de map 'vectoren' met de inhoud uit deze ZIP.
+4. Controleer daarna GitHub Pages.
+5. Test op het Vectoren-hoofdmenu:
+   - Start
+   - Volledige leerlijn
+   - Vectoren optellen en aftrekken
+6. Test ook de knoppen 'Terug naar Vectoren'.
+
+De module optellen-aftrekken is de nieuwste interactieve versie:
+- vectorpijltjes consequent weergegeven;
+- onderdelenbalk bovenaan;
+- kop-staart en parallellogram;
+- aftrekken via tegengestelde vector;
+- vectoren aanpasbaar door slepen;
+- leerling construeert zelf de resultante.
+
+Datum back-up: 10 september 2026
